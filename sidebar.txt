@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pys:home|Door43 (pys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pys|d43-pys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pys/archive/master.zip|d43-pys.zip]]
+
+**Recent Changes**
+{{changes>ns = pys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pys|Ethnologue data]]
+
